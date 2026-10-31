@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishaddutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?color=green" alt="License" /></a>
@@ -70,7 +70,7 @@ Open-source email tracking infrastructure offers self-hosted data ownership, zer
 
 ### ⭐ Open-Source Leaderboard (Sorted by Stars)
 
-| Repository | GitHub Stars Badge 🌟 | Tech Stack 🛠️ | Description 📝 |
+| Repository | GitHub_Stars_Badge 🌟 | Tech Stack 🛠️ | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker)** | [![Stars](https://img.shields.io/github/stars/apparition47/MailTrackerBlocker?style=social&color=white)](https://github.com/apparition47/MailTrackerBlocker/stargazers) | Objective-C / Swift | Apple Mail tracker and spy-pixel blocker plugin that strips tracking pixels and blocks telemetry requests. |
 | **[marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy)** | [![Stars](https://img.shields.io/github/stars/marckohlbrugge/sessy?style=social&color=white)](https://github.com/marckohlbrugge/sessy/stargazers) | TypeScript / Svelte | Open-source email delivery and observability dashboard for AWS SES; tracks sends, opens, clicks, bounces, and complaints. |
@@ -134,7 +134,7 @@ Contributions, tool submissions, and corrections are warmly welcomed!
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-tracker`).
-3. ✏️ Add your platform or repository (ensure SaaS tools include explicit tier pricing and free limits; open-source projects must include the star badge).
+3. ✏️ Add your platform or repository (ensure SaaS tools include explicit tier pricing and free limits; open-source projects must include the Stars_Badge).
 4. 💾 Commit changes (`git commit -m "feat: add NewTracker to ecosystem"`).
 5. 🚀 Push to branch and open a **Pull Request**.
 
