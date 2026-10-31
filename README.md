@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishaddutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?style=social" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts?color=green" alt="License" /></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -27,6 +30,8 @@
   - [📦 Project Deep-Dives](#-project-deep-dives)
 - [🛡️ The Apple MPP & Tracking Pixel Reality](#️-the-apple-mpp--tracking-pixel-reality)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Privacy Compliance](#️-disclaimer--privacy-compliance)
 
 ---
@@ -132,6 +137,23 @@ Contributions, tool submissions, and corrections are warmly welcomed!
 3. ✏️ Add your platform or repository (ensure SaaS tools include explicit tier pricing and free limits; open-source projects must include the star badge).
 4. 💾 Commit changes (`git commit -m "feat: add NewTracker to ecosystem"`).
 5. 🚀 Push to branch and open a **Pull Request**.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using this ecosystem guide! 🌟
+
+If this repository has helped you navigate the complex landscape of email tracking pixels, Apple Mail Privacy Protection, or sales outreach telemetry, please consider showing your support:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute new tools, libraries, or architectural patterns.
+- 📢 **Share** this resource with your sales engineering, RevOps, and developer networks.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Email-Tracking-Read-Receipts&type=date&legend=top-left)
 
 ---
 
